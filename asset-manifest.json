@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/facebook-clone/static/css/main.41931d6e.chunk.css",
+    "main.js": "/facebook-clone/static/js/main.45513760.chunk.js",
+    "main.js.map": "/facebook-clone/static/js/main.45513760.chunk.js.map",
+    "runtime-main.js": "/facebook-clone/static/js/runtime-main.899e14df.js",
+    "runtime-main.js.map": "/facebook-clone/static/js/runtime-main.899e14df.js.map",
+    "static/js/2.5dc752ef.chunk.js": "/facebook-clone/static/js/2.5dc752ef.chunk.js",
+    "static/js/2.5dc752ef.chunk.js.map": "/facebook-clone/static/js/2.5dc752ef.chunk.js.map",
+    "index.html": "/facebook-clone/index.html",
+    "static/css/main.41931d6e.chunk.css.map": "/facebook-clone/static/css/main.41931d6e.chunk.css.map",
+    "static/js/2.5dc752ef.chunk.js.LICENSE.txt": "/facebook-clone/static/js/2.5dc752ef.chunk.js.LICENSE.txt",
+    "static/media/3.5b22850b.jpg": "/facebook-clone/static/media/3.5b22850b.jpg",
+    "static/media/arrow.2e552680.svg": "/facebook-clone/static/media/arrow.2e552680.svg",
+    "static/media/bell.f0c76da2.svg": "/facebook-clone/static/media/bell.f0c76da2.svg",
+    "static/media/c1.9bb36480.jpg": "/facebook-clone/static/media/c1.9bb36480.jpg",
+    "static/media/c2.4728e189.jpg": "/facebook-clone/static/media/c2.4728e189.jpg",
+    "static/media/caret.17f0a4fb.svg": "/facebook-clone/static/media/caret.17f0a4fb.svg",
+    "static/media/chevron.52254b8e.svg": "/facebook-clone/static/media/chevron.52254b8e.svg",
+    "static/media/cog.8c5b9138.svg": "/facebook-clone/static/media/cog.8c5b9138.svg",
+    "static/media/fbLogo.f7297287.webp": "/facebook-clone/static/media/fbLogo.f7297287.webp",
+    "static/media/fbTextLogo.d77df6a5.svg": "/facebook-clone/static/media/fbTextLogo.d77df6a5.svg",
+    "static/media/g1.227c44ee.jpg": "/facebook-clone/static/media/g1.227c44ee.jpg",
+    "static/media/g2.2c545dc4.jpg": "/facebook-clone/static/media/g2.2c545dc4.jpg",
+    "static/media/member1.9124619a.jpg": "/facebook-clone/static/media/member1.9124619a.jpg",
+    "static/media/member2.e2f5f143.jpg": "/facebook-clone/static/media/member2.e2f5f143.jpg",
+    "static/media/member3.1485edc7.jpg": "/facebook-clone/static/media/member3.1485edc7.jpg",
+    "static/media/member4.4fd7465c.jpg": "/facebook-clone/static/media/member4.4fd7465c.jpg",
+    "static/media/member5.ddd4676a.jpg": "/facebook-clone/static/media/member5.ddd4676a.jpg",
+    "static/media/messenger.39261066.svg": "/facebook-clone/static/media/messenger.39261066.svg",
+    "static/media/plus.d5a88a59.svg": "/facebook-clone/static/media/plus.d5a88a59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899e14df.js",
+    "static/js/2.5dc752ef.chunk.js",
+    "static/css/main.41931d6e.chunk.css",
+    "static/js/main.45513760.chunk.js"
+  ]
+}
